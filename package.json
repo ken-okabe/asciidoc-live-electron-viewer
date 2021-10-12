@@ -17,7 +17,7 @@
   "license": "MIT",
   "dependencies": {
     "asciidoctor.js": "^1.5.7",
-    "electron": "^3.0.3",
+    "electron": "^11.5.0",
     "esm": "*",
     "highlight.js": "^9.13.1",
     "json-socket-international": "^0.4.0",
